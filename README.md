@@ -89,3 +89,9 @@ And add to the getMenuItems array in the same file:
 At this point, you will have all the api calls required for the admin app, but they are all only available for the admin users.
 
 To use this in the application, you will need to create your own API call outside of the /api/routers/admin folder as you might require them
+
+
+### Documentation
+
+run React client, the documentation is in http://localhost:4000/documentation
+
